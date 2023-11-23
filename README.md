@@ -1,16 +1,24 @@
-### Hi there 👋
 
-<!--
-**johnasc/johnasc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+### Hi there, I'm Johnas Chami 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Data Scientist graduating in May 2024. I'm immersed in writing my thesis on "Automatic Machine Learning: Enabling Data-Driven Transformation for SMEs through Collaborative AutoML".
+
+#### 🎓 Academic Pursuits
+- 📘 Graduating in May 2024 with a degree in Data Science.
+- 📝 Thesis: Focusing on empowering SMEs through Collaborative AutoML for data-driven transformations.
+
+#### 💼 Professional Experience
+- 💻 Currently working at Microsoft, where I'm fortunate to contribute to our AI and IoT tools.
+- 📊 Leveraging data to enhance user experience and drive meaningful insights.
+
+#### 💡 My Passion
+- 🔍 Passionate about Data and AI's potential to drive positive impact.
+- 🚀 I'm eager to engage in projects that elevate consumer values and enhance operational efficiency.
+
+#### 🌍 Let's Connect
+- 📫 Feel free to reach out for collaborations, discussions, or sharing insights!
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/johnas-chami-40aaa212a/) for more updates and professional engagements.
+
+I'm thrilled to be part of the data science community, where innovation and impactful solutions thrive. Let's collaborate and make a difference together!
