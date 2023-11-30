@@ -5,6 +5,9 @@
 
 I'm a passionate Data Scientist graduating in May 2024. I'm immersed in writing my thesis on "Automatic Machine Learning: Enabling Data-Driven Transformation for SMEs through Collaborative AutoML".
 
+### My Articles ###
+- [How to deploy your Flask application to Azure.](https://medium.com/@johnaschami/how-to-deploy-your-flask-application-to-azure-0f0ffde5c80a)
+
 #### 🎓 Academic Pursuits
 - 📘 Graduating in May 2024 with a degree in Data Science.
 - 📝 Thesis: Focusing on empowering SMEs through Collaborative AutoML for data-driven transformations.
