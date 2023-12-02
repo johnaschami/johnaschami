@@ -7,6 +7,8 @@ I'm a passionate Data Scientist graduating in May 2024. I'm immersed in writing 
 
 ### My Articles ###
 - [How to deploy your Flask application to Azure.](https://medium.com/@johnaschami/how-to-deploy-your-flask-application-to-azure-0f0ffde5c80a)
+- [Maximizing Organizational Potential with Microsoft Fabric.](https://medium.com/@johnaschami/maximizing-organizational-potential-with-microsoft-fabric-193a8ceb0023)
+
 
 #### 🎓 Academic Pursuits
 - 📘 Graduating in May 2024 with a degree in Data Science.
