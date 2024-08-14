@@ -3,7 +3,7 @@
 
 ### Hi there, I'm Johnas Chami 👋
 
-I'm a passionate Data Scientist graduating in May 2024. I'm immersed in writing my thesis on "Automatic Machine Learning: Enabling Data-Driven Transformation for SMEs through Collaborative AutoML".
+I'm a passionate Data Scientist, immersed in writing my masters thesis on "Automatic Machine Learning: Enabling Data-Driven Transformation for SMEs through Collaborative AutoML".
 
 ### My Articles ###
 - [How to deploy a Flask application to Azure.](https://medium.com/@johnaschami/how-to-deploy-your-flask-application-to-azure-0f0ffde5c80a)
@@ -11,7 +11,7 @@ I'm a passionate Data Scientist graduating in May 2024. I'm immersed in writing 
 
 
 #### 📘 Academic Pursuits
-- Graduating in May 2024 with a Master degree in Data Science and Advanced Analytics. 
+- Master degree in Data Science and Advanced Analytics. 
 - Thesis: Focusing on empowering SMEs through Collaborative AutoML for data-driven transformations.
 
 #### 💻 Professional Experience
