@@ -12,7 +12,7 @@ I'm a Digital enthusiast, passionate about leveraging technology to empower indi
 
 #### 📘 Academic Pursuits
 - Master degree in Data Science and Advanced Analytics. 
-- Thesis: Design Auto-ML Framework for SMEs Digital Transformation.
+- Thesis: Designing an AutoML Framework for Empowering SMEs Digital Transformation.
 #### 💻 Professional Experience
 - Currently working at Microsoft, where I'm fortunate to contribute to our AI and IoT tools.
 - Leveraging data to enhance user experience and drive meaningful insights.
