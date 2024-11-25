@@ -13,9 +13,10 @@ I'm a Digital enthusiast, passionate about leveraging technology to empower indi
 #### 📘 Academic Pursuits
 - Master degree in Data Science and Advanced Analytics. 
 - Thesis: Designing an AutoML Framework for Empowering SMEs Digital Transformation.
+
 #### 💻 Professional Experience
-- Currently working at Microsoft, where I'm fortunate to contribute to our AI and IoT tools.
-- Leveraging data to enhance user experience and drive meaningful insights.
+- Empowering SMEs: Driving AI and digital transformation for SMEs through impactful solutions at [HakunaMatata AI](hakunamatataai.com).
+- Upskilling Youth: Equipping the next generation with no-code and digital skills at HakunaMatata Lab.
 
 #### 💡 My Passion
 - Passionate about Data and AI's potential to drive positive impact.
