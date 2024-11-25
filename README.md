@@ -3,7 +3,7 @@
 
 ### Hi there, I'm Johnas Chami 👋
 
-I'm a passionate Data Scientist, immersed in writing my masters thesis on "Automatic Machine Learning: Enabling Data-Driven Transformation for SMEs through Collaborative AutoML".
+I'm a Digital enthusiast, passionate about leveraging technology to empower individuals, enhance processes, and drive positive change within societies. I'm eager to collaborate with like-minded professionals to create impactful solutions and drive meaningful change.
 
 ### My Articles ###
 - [How to deploy a Flask application to Azure.](https://medium.com/@johnaschami/how-to-deploy-your-flask-application-to-azure-0f0ffde5c80a)
@@ -12,8 +12,7 @@ I'm a passionate Data Scientist, immersed in writing my masters thesis on "Autom
 
 #### 📘 Academic Pursuits
 - Master degree in Data Science and Advanced Analytics. 
-- Thesis: Focusing on empowering SMEs through Collaborative AutoML for data-driven transformations.
-
+- Thesis: Design Auto-ML Framework for SMEs Digital Transformation.
 #### 💻 Professional Experience
 - Currently working at Microsoft, where I'm fortunate to contribute to our AI and IoT tools.
 - Leveraging data to enhance user experience and drive meaningful insights.
