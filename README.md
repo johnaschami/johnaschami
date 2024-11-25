@@ -19,10 +19,10 @@ I'm a Digital enthusiast, passionate about leveraging technology to empower indi
 
 #### 💡 My Passion
 - Passionate about Data and AI's potential to drive positive impact.
-- I'm eager to engage in projects that elevate consumer values and enhance operational efficiency.
+- I'm eager to engage in projects that enhance consumer experiences and enhance operational efficiency.
 
 #### 🌍 Let's Connect
 - Feel free to reach out for collaborations, discussions, or sharing insights!
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/johnas-chami-40aaa212a/) for more updates and professional engagements.
 
-I'm thrilled to be part of the data science community, where innovation and impactful solutions thrive. Let's collaborate and make a difference together!
+I'm thrilled to be part of the digital community, where innovation and impactful solutions thrive. Let's collaborate and make a difference together!
