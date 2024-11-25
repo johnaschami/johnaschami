@@ -15,7 +15,7 @@ I'm a Digital enthusiast, passionate about leveraging technology to empower indi
 - Thesis: Designing an AutoML Framework for Empowering SMEs Digital Transformation.
 
 #### 💻 Professional Experience
-- Empowering SMEs: Driving AI and digital transformation for SMEs through impactful solutions at [HakunaMatata AI](hakunamatataai.com).
+- Empowering SMEs: Driving AI and digital transformation for SMEs through impactful solutions at [HakunaMatata AI](https://yourwebsite.com).
 - Upskilling Youth: Equipping the next generation with no-code and digital skills at HakunaMatata Lab.
 
 #### 💡 My Passion
