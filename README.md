@@ -1,7 +1,7 @@
 
 ## 🚀 About Me
 
-### Hi there, I'm Johnas Chami 👋
+### Hi there, I'm [Johnas Chami.](https://johnaschami.com) 👋
 
 I'm a Digital enthusiast, passionate about leveraging technology to empower individuals, enhance processes, and drive positive change within societies. I'm eager to collaborate with like-minded professionals to create impactful solutions and drive meaningful change.
 
