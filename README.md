@@ -3,7 +3,7 @@
 
 ### Hi there, I'm [Johnas Chami.](https://johnaschami.com) 👋
 
-I'm a Digital enthusiast, passionate about leveraging technology to empower individuals, enhance processes, and drive positive change within societies. I'm eager to collaborate with like-minded professionals to create impactful solutions and drive meaningful change.
+I'm a purpose-driven digital leader who believes in the power of technology to uplift people, businesses and strengthen communities. Currently at Aprikoti, I focus on creating real impact by empowering individuals, improving systems, and supporting inclusive progress. I enjoy working alongside others to build solutions that solve real problems and help individuals, businesses and societies move forward.
 
 ### My Articles ###
 - [How to deploy a Flask application to Azure.](https://medium.com/@johnaschami/how-to-deploy-your-flask-application-to-azure-0f0ffde5c80a)
