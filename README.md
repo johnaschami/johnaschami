@@ -15,15 +15,15 @@ I'm a purpose-driven digital leader who believes in the power of technology to u
 - Thesis: Designing an AutoML Framework for Empowering SMEs Digital Transformation.
 
 #### 💻 Professional Experience
-- Empowering SMEs: Driving AI and digital transformation for SMEs through impactful solutions at [Aprikoti](https://aprikoti.com).
-- Upskilling Youth: Equipping the next generation with no-code and digital skills at HakunaMatata Lab.
+- Empowering SMEs and Startups: Driving AI and digital transformation for SMEs and startups through impactful solutions at [Aprikoti](https://aprikoti.com).
+- Upskilling Youth: Equipping the next generation with no-code and digital skills at [Inua Hub](https://inuahub.org).
 
 #### 💡 My Passion
-- Passionate about Data and AI's potential to drive positive impact.
-- I'm eager to engage in projects that enhance consumer experiences and enhance operational efficiency.
+- Passionate about technology´s potential to drive positive impact in our societies.
 
 #### 🌍 Let's Connect
 - Feel free to reach out for collaborations, discussions, or sharing insights!
+- My personal portfolio here: [Johnas Chami](https://johnaschami.com)
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/johnas-chami-40aaa212a/) for more updates and professional engagements.
 
 I'm thrilled to be part of the digital community, where innovation and impactful solutions thrive. Let's collaborate and make a difference together!
